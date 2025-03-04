@@ -1,2 +1,4 @@
 .venv/
-datasets/*
+datasets/sepsis.csv
+datasets/sepsis_cleaned.csv
+datasets/sepsis_cleaned.csv.bak
